@@ -1,5 +1,10 @@
 body {
   font-size: 14px;
   color: black;
+  width: 825px;
+  margin: 0 auto;
+  margin-top: 10px;
   font-family: Arial;
+  display: block;
+}
 }
