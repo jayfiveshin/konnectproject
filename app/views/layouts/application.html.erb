@@ -8,7 +8,9 @@
   <%= csrf_meta_tag %>
 </head>
 <body>
-
+  <header>
+  <%= image_tag "header-logo.jpg", :id => "header-logo" %>
+  </header>
 <%= yield %>
 
 <%= link_to "Home", pages_home_path %>
