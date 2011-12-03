@@ -5,4 +5,12 @@ body {
   font-family: Arial;
   display: block;
 }
+
+header {
+  width: auto;
+}
+
+header img#header-logo {
+  margin: 0 auto;
+  display: block;
 }
